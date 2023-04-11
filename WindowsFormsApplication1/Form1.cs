@@ -496,7 +496,6 @@ namespace WindowsFormsApplication1
             bingo bingo = new bingo();
             //bingo.Show();
             bingo.ShowDialog();//cesar por DIOS, como no pudiste hacer esto jajaja
-
         }
     }
 }
